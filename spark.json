@@ -1,0 +1,7 @@
+{
+  "name": "RF24",
+  "version": "1.1.6",
+  "author": "TMRh20 <tmrh20@gmail.com>",
+  "license": "Unknown",
+  "description": "Optimized High Speed Driver for nRF24L01(+) 2.4GHz Wireless Transceiver"
+}
